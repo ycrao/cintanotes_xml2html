@@ -1,5 +1,4 @@
 # CintaNotes笔记导出器 #
-----
 
 ## 简介 ##
 
@@ -40,7 +39,7 @@ CintaNotes导出HTML笔记文章页面。
 > ⑤增加笔记页面顶栏上下笔记导航功能；  
 > ⑥优化程序算法和逻辑，减少BUG出现几率。
 > 2013年4月2日，发布第3版，实现对CintaNotes最新稳定版v2.1的支持。  
-> 2014年07月，fysoft项目整体迁移至github，项目迭代更新，支持最新版CintaNotes(v2.6.1)。
+> 2014年07月，由于google code在中国访问困难，fysoft项目整体迁移至github，项目迭代更新。发布第4版，支持最新版CintaNotes(v2.6.1)，版本号定为2.6。
 
 
 ## 下载地址 ##
@@ -50,8 +49,7 @@ CintaNotes导出HTML笔记文章页面。
 
 ## 版权申明 ##
 
-本软件基于 [AutoHotkey](http://www.autohotkey.com/)
-、 [AutoHotkey L](http://ahkscript.org/) 和[CintaNotes](http://cintanotes.com/)共同构建，绿色，免费，无毒。作者QQ网名为Sunshine，软件则以“飞扬网络工作室”署名，本代码遵循 MIT（MIT）许可协议。
+本软件基于 [AutoHotkey](http://www.autohotkey.com/)、 [AutoHotkey L](http://ahkscript.org/) 和[CintaNotes](http://cintanotes.com/)共同构建，绿色，免费，无毒。作者QQ网名为Sunshine，软件则以“飞扬网络工作室”署名，本代码遵循 MIT（MIT）许可协议。
 
 ## 作者呼吁 ##
 
