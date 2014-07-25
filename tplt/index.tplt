@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<title>目录 - CintaNotes导出笔记</title>
+	<meta name="description" content="CintaNotes导出笔记：目录" />
+	<meta name="keywords" content="CintaNotes,笔记,目录" />
+	<meta name="author" content="http://raoyc.com/fysoft" />
+	<meta name="generator" content="CintaNotes XML2HTML" />
+	<link rel="stylesheet" href="css/simple.css" type="text/css" media="screen" charset="utf-8" />
+</head>
+<body>
+	<div id="wrapper">
+		<div id="nav">
+		<p>CintaNotes导出笔记：目录<!--<a href="#~prev~">上一笔记</a> | <a href="#">目录</a> | <a href="#~next~">下一笔记</a>--></p>
+		</div>
+		<div id="content">
+		<h1><strong>目录</strong></h1>
+			<div class="article_info">
+	<i>此为CintaNotes导出笔记HTML文档目录页</i>
+			</div>
+<ol>
+<!--@add_ol_li@-->
+</ol>
+		</div>
+		<div id="footer">
+		<p><b>&copy; Copyright 2011-2014 笔记大部分摘编自网络，由<a href="https://github.com/ycrao/cintanotes_xml2html">CinaNotes XML2HTML</a>工具创建</b></p>
+		<p>笔记驱动：<a href="http://cintanotes.com/">CintaNotes</a> | 转换驱动：<a href="http://www.autohotkey.com/">AutoHotkey</a> <a href="http://ahkscript.org/">AHK L</a> | 脚本反馈：<a href="mailto:ryc-sunshine@qq.com">Email</a> | 官方Q群:260655062</p>
+		</div>
+	</div>
+</body>
+</html>
+<!--HTML FileName : index-->

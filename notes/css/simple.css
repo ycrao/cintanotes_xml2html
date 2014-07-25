@@ -1,0 +1,115 @@
+﻿p, div, ul, ol, li, code, pre, form, fieldset, blockquote, html, body {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	font-weight: normal;
+	-moz-opacity: .999;
+}
+
+body {
+	font-family: 'Tahoma', 'Geneva', sans-serif, "微软雅黑", "宋体";
+}
+ul,ol{margin-left:0;padding-left:40px;}
+ol
+{
+	list-style-type: decimal;
+}
+ul
+{
+	list-style-type: disc;
+}
+
+h1{
+	font-size:16px;
+	text-align:center;
+}
+p{
+	font-size:14px;
+	}
+
+a img{
+	border:none;
+	}
+#wrapper{
+	width:650px;
+	margin:auto;
+}
+#nav{
+	color:333333;
+}
+#content{
+	line-height:16px;
+	font-size:14px;
+	white-space:pre-wrap;/*pre-line*;*/
+	*white-space: pre;
+	*word-wrap: break-word;
+}
+.article_info a{
+	text-decoration: underline;
+	color:#0044ff;
+}
+.article_info{
+	background:#d4d0c8;
+}
+#content b{
+	font-weight: bold;
+}
+#content i{
+	font-style: italic;
+}
+#content u{
+	text-decoration: underline;
+}
+#content em{
+	font-weight: normal;
+	font-style:normal;
+	background-color: #fffaa0;
+}
+#content pre{
+	font-family: 'Courier New', 'Courier', monospace;
+}
+#content em pre
+{
+	 color: #000000;
+	 font-family: 'Courier New', 'Courier', monospace;
+	 background-color: #fffaa0;
+}
+#content pre em
+{
+	 color: #000000;
+	 font-family: 'Courier New', 'Courier', monospace;
+	 background-color: #fffaa0;
+}
+/*cintanotes自定义标签*/
+#content notelink{
+	text-decoration: underline;
+	color: #0066cc;
+	cursor: pointer;
+}
+#footer {
+	margin:1em 0 1em 0;
+	border-style: solid;
+	border-width: 1px 0 0 0;
+	border-color:#09f;
+	color: #282828;
+	text-align: center;
+	padding-top: 1em;
+	clear: both;
+}
+#footer a {
+	color: #ff0000;
+	text-decoration:none;
+}
+#footer  a:hover ,#content a:hover{
+	text-decoration:underline;
+	color:#2eBe3f;
+}
+#footer  a:active {
+	text-decoration:none;
+	color:#2e95be;
+}
+#footer b,b a{
+	color: white;
+	background: #000;
+}
+

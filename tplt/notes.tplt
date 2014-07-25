@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<title>#title# - CintaNotes导出笔记</title>
+	<meta name="description" content="CintaNotes导出笔记: _title_" />
+	<meta name="keywords" content="_tags_" />
+	<meta name="author" content="http://raoyc.com/fysoft" />
+	<meta name="generator" content="CintaNotes XML2HTML" />
+	<link rel="stylesheet" href="css/simple.css" type="text/css" media="screen" charset="utf-8" />
+	<!--处理CintaNotes自定义标签 START-->
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$('notelink').click(
+				function(){
+					var path = $(this).attr('path');
+					if(path.indexOf('cintanotes:///url/')!==1)
+					{
+						$(this).attr('title', path);
+						var href = path.substr(18);
+						window.open(href);
+					}
+				}
+			);
+		});
+	</script>
+	<!--处理CintaNotes自定义标签 END-->
+</head>
+<body>
+	<div id="wrapper">
+		<div id="nav">
+		<p>CintaNotes导出笔记：<a href="#prev~.html">上一笔记</a> | <a href="index.html">目录</a> | <a href="#next~.html">下一笔记</a></p>
+		</div>
+		<div id="content">
+		<h1><strong>#title#</strong></h1>
+			<div class="article_info">
+	创建时间：<i>#thecreatedtime#</i>
+	修改时间：<i>#themodifiedtime#</i>
+	来源：<a href="#link~"><i>#link#</i></a>
+	标签：<i>#tags#</i>
+	分类：<i>#section#</i>
+			</div>
+#article_content#
+		</div>
+		<div id="footer">
+		<p><b>&copy; Copyright 2011-2014 笔记大部分摘编自网络，由<a href="https://github.com/ycrao/cintanotes_xml2html">CinaNotes XML2HTML</a>工具创建</b></p>
+		<p>笔记驱动：<a href="http://cintanotes.com/">CintaNotes</a> | 转换驱动：<a href="http://www.autohotkey.com/">AutoHotkey</a> <a href="http://ahkscript.org/">AHK L</a> | 脚本反馈：<a href="mailto:ryc-sunshine@qq.com">Email</a> | 官方Q群:260655062</p>
+		</div>
+	</div>
+</body>
+</html>
+<!--FileModifiedTime : @themodifiedtime@-->
+<!--FileCreatedTime(as HTML FileName) : @thecreatedtime@-->
