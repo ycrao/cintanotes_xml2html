@@ -49,8 +49,4 @@ CintaNotes导出HTML笔记文章页面。
 
 ## 版权申明 ##
 
-本软件基于 [AutoHotkey](http://www.autohotkey.com/)、 [AutoHotkey L](http://ahkscript.org/) 和[CintaNotes](http://cintanotes.com/)共同构建，绿色，免费，无毒。作者QQ网名为Sunshine，软件则以“飞扬网络工作室”署名，本代码遵循 MIT（MIT）许可协议。
-
-## 作者呼吁 ##
-
-编写本工具，只是为了让大家更好地分享知识，交流学习经验。为此，我将本人的CintaNotes笔记共享出来：点击本站导航页头笔记即可进入。欢迎大家把自己的CintaNotes笔记共享出来，也欢迎大家加入飞扬小工具软件官方Q群：260655062。
+本软件基于 [AutoHotkey](http://www.autohotkey.com/)、 [AutoHotkey L](http://ahkscript.org/) 和[CintaNotes](http://cintanotes.com/)共同构建，绿色，免费，无毒。软件则以“飞扬网络工作室”署名，本代码遵循 MIT（MIT）许可协议。
